@@ -1,0 +1,6 @@
+create table clothes(
+        name varchar(12) not null,
+        color varchar(4) not null,
+        primary key( name )
+);
+

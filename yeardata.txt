@@ -1,0 +1,14 @@
+insert into year values('8', '子ども');
+insert into year values('10', '子ども');
+insert into year values('10', '子ども');
+insert into year values('10', '子ども');
+insert into year values('10', '子ども');
+insert into year values('41', '大人');
+insert into year values('38', '大人');
+insert into year values('43', '大人');
+insert into year values('10', '子ども');
+insert into year values('10', '子ども');
+insert into year values('37', '大人');
+insert into year values('10', '子ども');
+insert into year values('68', '大人');
+

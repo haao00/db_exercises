@@ -1,0 +1,14 @@
+insert into person values('0001','ジャイ子','8','112');
+insert into person values('0002','スネ夫','10','135');
+insert into person values('0003','のび太','10','140');
+insert into person values('0004','セワシ','10','136');
+insert into person values('0005','しずか','10','138');
+insert into person values('0006','のびすけ','41','178');
+insert into person values('0007','玉子','38','165');
+insert into person values('0008','先生','43','179');
+insert into person values('0009','出来杉','10','140');
+insert into person values('0010','ジャイアン','10','143');
+insert into person values('0011','スネ夫ママ','37','173');
+insert into person values('0012','ノビスケ','10','138');
+insert into person values('0013','神成さん','68','169');
+

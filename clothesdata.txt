@@ -1,0 +1,15 @@
+insert into clothes values('ジャイ子', '黄色');
+insert into clothes values('スネ夫', '水色');
+insert into clothes values('のび太','黄色');
+insert into clothes values('セワシ','橙色');
+insert into clothes values('しずか','ピンク');
+insert into clothes values('のびすけ','青');
+insert into clothes values('玉子','ピンク');
+insert into clothes values('先生','茶色');
+insert into clothes values('出来杉','水色');
+insert into clothes values('ジャイアン','橙色');
+insert into clothes values('スネ夫ママ','紫');
+insert into clothes values('ノビスケ','青');
+insert into clothes values('神成さん','茶色');
+
+

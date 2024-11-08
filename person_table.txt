@@ -1,0 +1,8 @@
+create table person(
+        id varchar(4) not null unique,
+        name varchar(12) not null,
+        age int2,
+        height int4,
+        primary key( id )
+);
+
